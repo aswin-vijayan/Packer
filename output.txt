@@ -1,1 +1,0 @@
-us-west-2:ami-01bb66d4d50c85b93
